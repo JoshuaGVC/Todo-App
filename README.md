@@ -4,6 +4,8 @@
 
 El App "Todo" es un aplicativo web muy simple de usar y util para poder organizar, recordar y realizar tus tareas mas importantes!
 
+[link demo](https://joshuagvc.github.io/todo-app)
+
 ## ¿Como usar el app?
 
 - Escribir el "Todo".
